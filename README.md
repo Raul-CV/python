@@ -1,0 +1,1 @@
+son avances aplicadas hacia el mundo de python... en proceso :)
